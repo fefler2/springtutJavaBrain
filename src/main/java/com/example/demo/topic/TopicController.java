@@ -20,5 +20,8 @@ public class TopicController {
         return topicService.getAllTopics();
     }
 
+    public Topic getTopic(String id) {
+
+    }
 
 }
